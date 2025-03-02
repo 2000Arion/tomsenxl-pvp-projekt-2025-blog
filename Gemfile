@@ -12,3 +12,8 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
 end
 
 gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
+
+# Lock jekyll-sass-converter to 2.x on Linux-musl
+if RUBY_PLATFORM =~ /linux-musl/
+  gem "jekyll-sass-converter", "~> 3.0"
+end
