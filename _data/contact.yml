@@ -8,9 +8,6 @@
   icon: "fab fa-discord"
   url: "https://discord.arion2000.xyz/?guildId=968495636511096874"
 
-- type: github
-  icon: "fab fa-github"
-
 - type: rss
   icon: "fas fa-rss"
   noblank: true
