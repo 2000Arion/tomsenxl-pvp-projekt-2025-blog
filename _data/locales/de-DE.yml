@@ -7,16 +7,6 @@ layout:
   category: Kategorie
   tag: Tag
 
-# The tabs of sidebar
-tabs:
-  # format: <filename_without_extension>: <value>
-  home: Startseite
-  categories: Kategorien
-  tags: Tags
-  archives: Alle Posts
-  about: Über
-  sponsor: Unterstützen
-
 # the text displayed in the search bar & search results
 search:
   hint: search
