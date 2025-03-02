@@ -39,7 +39,7 @@ Das Projekt nutzt [**Cloudflare Pages**](https://pages.cloudflare.com) für das 
 
 Bei Bedarf kannst du auch manuell Builds erzeigen:  
 
-### Windows (Powershell)**
+### Windows (Powershell)
 
 ```sh
 $env:JEKYLL_ENV="production"; bundle exec jekyll build
