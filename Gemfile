@@ -2,6 +2,8 @@
 
 source "https://rubygems.org"
 
+ruby ">=3.3.7"
+
 # Stelle sicher, dass Jekyll explizit eingebunden ist, damit alle erforderlichen
 # Abhängigkeiten (wie Nokogiri, async, etc.) korrekt aufgelöst werden.
 gem "jekyll", "~> 4.4"
