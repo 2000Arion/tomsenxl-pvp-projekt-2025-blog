@@ -1,0 +1,22 @@
+---
+layout: page
+# The Category layout
+---
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="refresh" content="1;url={{ page.redirect }}" />
+    <link rel="canonical" href="{{ page.redirect }}" />
+    <script src="https://media.arion2000.xyz/cdn/js/redirect.min.js"></script>
+    <title>Weiterleitung</title>
+  </head>
+
+  <body onload="onLoad('{{ page.redirect }}')">
+    <p>Du wirst in Kürze weitergeleitet...</p>
+    <p>
+      Falls die Weiterleitung nicht funktioniert, klicke
+      <a href="{{ page.redirect }}">hier</a>.
+    </p>
+  </body>
+</html>
