@@ -51,6 +51,8 @@ $env:JEKYLL_ENV="production"; bundle exec jekyll build
 JEKYLL_ENV=production bundle exec jekyll build
 ```
 
+Der Output wird im `/_site` Verzeichnis ausgegeben.
+
 ## 📂 Struktur  
 
 - `_posts/` – Blogartikel und News  
