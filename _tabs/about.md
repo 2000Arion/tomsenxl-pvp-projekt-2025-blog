@@ -6,7 +6,7 @@ order: 6
 
 Ein **riesiges Stadion**, **insgesamt 10 Runden** und **unterschiedliche Kits**. Das ist das neue Minecraft PVP Projekt! 🎉
 
-![Mittellinie der Tropenstadion-Arena](https://pinboard-uploads-production.operacdn.com/images/deb333f5-0df0-4e86-8651-c84f08100fe0/f47e08c7-45d8-4d52-a445-4d6071deaad3/67eea9c3-c67d-4b09-aa42-e8bfa2e595aa.png)
+![Mittellinie der Tropenstadion-Arena](https://storage.a2data.site/storage/api/public/dl/zw2RFU6a)
 
 Insgesamt **6 Spieler** treten in **spannenden 1v1-Kämpfen** gegeneinander an. In den **10 Vorrunden** gilt das Prinzip "**Jeder gegen Jeden**". Ein **Sieg bringt 3 Punkte**, ein **Unentschieden 1 Punkt** und eine **Niederlage 0 Punkte**. Wer wird sich durchsetzen und die meisten Punkte sammeln? 🏆
 
