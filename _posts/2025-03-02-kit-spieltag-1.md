@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Das Kit für den ersten Spieltag"
-date: 2025-03-02 18:37
+date: 2025-03-02 18:37:00 +0100
 authors: arion2000
 slug: SYCiugoA
 categories:
