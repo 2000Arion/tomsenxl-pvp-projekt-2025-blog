@@ -15,8 +15,8 @@ Dies ist die Open-Source-Website für [tomsenxl.mcevent.com.de](https://tomsenxl
 1. Repository klonen:  
 
    ```sh
-   git clone https://github.com/dein-repo/tomsenxl-pvp.git
-   cd tomsenxl-pvp
+   git clone https://github.com/2000Arion/tomsenxl-pvp-projekt-2025-blog.git
+   cd tomsenxl-pvp-projekt-2025-blog
    ```
 
 2. Abhängigkeiten installieren:
