@@ -1,0 +1,92 @@
+# The layout text of site
+
+# ----- Commons label -----
+
+layout:
+  post: Post
+  category: Kategorie
+  tag: Tag
+
+# The tabs of sidebar
+tabs:
+  # format: <filename_without_extension>: <value>
+  home: Startseite
+  categories: Kategorien
+  tags: Tags
+  archives: Alle Posts
+  about: Über
+  sponsor: Unterstützen
+
+# the text displayed in the search bar & search results
+search:
+  hint: search
+  cancel: Abbrechen
+  no_results: Es stimmen keine Ergebnisse mit deiner Suche überein. Überprüfe die Rechtschreibung oder versuche es mit einem anderen Suchbegriff.
+
+panel:
+  lastmod: Vor kurzem bearbeitet
+  trending_tags: Beliebte Tags
+  toc: Inhalte
+
+copyright:
+  # Shown at the bottom of the post
+  license:
+    template: Dieser Post ist unter :LICENSE_NAME vom Autor lizensiert.
+    name: GNU GPLv3
+    link: https://github.com/2000Arion/tomsenxl-pvp-projekt-2025-blog/blob/main/LICENSE
+
+  # Displayed in the footer
+  brief: Bestimmte Rechte vorbehalten.
+  verbose: >-
+    Das TomsenXL-Logo, einschließlich Symbol, Schrift und Farben, ist Eigentum von TomsenXL.
+    Sofern nicht anders angegeben, ist der Inhalt dieser Website
+    unter der GNU General Public License 3.0 (GNU GPLv3) lizenziert.
+
+meta: '<a href="https://github.com/2000Arion/tomsenxl-pvp-projekt-2025-blog" target="__blank">🤝 Wir sind Open-Source!</a>'
+
+notification:
+  update_found: Eine neue Version des Inhalts ist verfügbar!
+  update: Aktualisieren 🔄️
+
+# ----- Posts related labels -----
+
+post:
+  written_by: Von
+  posted: Gepostet
+  updated: Bearbeitet
+  words: Wörter
+  pageview_measure: Aufrufe
+  read_time:
+    unit: Minute(n)
+    prompt: Lesezeit
+  relate_posts: Zugehörige Artikel
+  share: Teilen
+  button:
+    next: Nächster Artikel
+    previous: Vorheriger Artikel
+    copy_code:
+      succeed: Kopiert!
+    share_link:
+      title: Link kopieren!
+      succeed: Link erfolgreich kopiert!
+  # pinned prompt of posts list on homepage
+  pin_prompt: Angeheftet
+
+# Date time format.
+# Siehe: http://strftime.net/, https://day.js.org/docs/en/display/format
+df:
+  post:
+    strftime: "%e. %b %Y"
+    dayjs: "D. MMM YYYY"
+  archives:
+    strftime: "%b"
+    dayjs: "MMM"
+
+# categories page
+categories:
+  category_measure:
+    singular: Kategorie
+    plural: Kategorien
+  post_measure:
+    singular: Post
+    plural: Posts
