@@ -18,3 +18,7 @@ Hier erfährst du, wann die nächsten YouTube-Videos online gehen – bleib gesp
 - **07.03.2025 um 16 Uhr**: <u>TomsenXL</u> gegen <u>SteenbockMax</u>
 - **08.03.2025 um 16 Uhr**: <u>LeFish</u> gegen <u>Aaron123337</u>
 - **09.03.2025 um 16 Uhr**: <u>Sukram2.0</u> gegen <u>Arion2000</u>
+
+---
+
+*Alle Angaben ohne Gewähr. Die Veröffentlichungsdaten können sich noch ändern.*
