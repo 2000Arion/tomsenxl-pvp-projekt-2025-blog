@@ -26,8 +26,6 @@ Auf dieser Webseite werdet ihr immer über die **aktuellsten Informationen** und
 
 **Die Videos der Vorrunden werden nach und nach auf YouTube erscheinen. Bleibt dran und seid gespannt!** 🚀
 
-## Termine für die Runden des ersten Spieltags
+## YouTube-Uploadplan für das Projekt
 
-- **07.03.2025 um 16 Uhr**: <u>TomsenXL</u> gegen <u>SteenbockMax</u>
-- **08.03.2025 um 16 Uhr**: <u>LeFish</u> gegen <u>Aaron123337</u>
-- **09.03.2025 um 16 Uhr**: <u>Sukram2.0</u> gegen <u>Arion2000</u>
+Wann die nächsten Folgen des Projekts erscheinen werden, kannst du jederzeit [hier](/posts/gq8Rwz5e/) nachschauen.
