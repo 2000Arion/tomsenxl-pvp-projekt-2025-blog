@@ -61,6 +61,10 @@ Der Output wird im `/_site` Verzeichnis ausgegeben.
 - `_data/` – Konfigurationsdaten  
 - `_layouts/` – HTML-Templates  
 
+## ✒️ Posts anlegen und verwalten
+
+Eine Referenz für die Verwendung von Jekyll Compose zum Erstellen und Verwalten von Posts findest du unter <https://github.com/jekyll/jekyll-compose/blob/master/README.md#usage>.
+
 ## 📜 Lizenz
 
 Dieses Projekt steht unter der **GNU General Public License v3.0**.
