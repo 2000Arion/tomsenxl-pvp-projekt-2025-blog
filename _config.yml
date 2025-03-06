@@ -220,3 +220,22 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+jekyll_compose:
+  auto_open: true
+  default_front_matter:
+    drafts:
+      slug:
+      date:
+      authors:
+      categories:
+        -
+      tags: []
+      image:
+        path:
+    posts:
+      description:
+      image:
+      category:
+        -
+      tags: []
