@@ -8,7 +8,7 @@ categories:
   - Organisatorisches
 tags: [Information]
 image:
-  path: https://pinboard-uploads-production.operacdn.com/images/deb333f5-0df0-4e86-8651-c84f08100fe0/95d41412-6f13-4e4b-8173-7badbf4c3d43/509c10bb-ccf2-4ceb-8e4f-415ea429b2c6.png
+  path: https://pinboard-uploads-production.operacdn.com/images/deb333f5-0df0-4e86-8651-c84f08100fe0/95d41412-6f13-4e4b-8173-7badbf4c3d43/5bcec485-bf54-4d0a-9e13-7d18af81d2fc.png
 pin: true
 ---
 Hier erfährst du, wann die nächsten YouTube-Videos online gehen – bleib gespannt!
