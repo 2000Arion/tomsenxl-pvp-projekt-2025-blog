@@ -15,7 +15,7 @@ Hier erfährst du, wann die nächsten YouTube-Videos online gehen – bleib gesp
 
 ## Termine für die Runden des ersten Spieltags
 
-- **07.03.2025 um 16 Uhr**: <u>TomsenXL</u> gegen <u>SteenbockMax</u>
+- **[07.03.2025 um 16 Uhr](https://www.youtube.com/watch?v=JDZmtb7MFrk "Link zum YouTube Video")**: <u>TomsenXL</u> gegen <u>SteenbockMax</u>
 - **08.03.2025 um 16 Uhr**: <u>LeFish</u> gegen <u>Aaron123337</u>
 - **09.03.2025 um 16 Uhr**: <u>Sukram2.0</u> gegen <u>Arion2000</u>
 
