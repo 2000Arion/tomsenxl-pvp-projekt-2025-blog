@@ -61,14 +61,57 @@ Beide blocken geschickt die Attacken des jeweils anderen ab – das dumpfe Knack
 
 ### Die letzte Minute tickt - Max endlich aufgewärmt? 🆙⚡
 
-Der Himmel klart etwas auf im Tropenstadion, und die beiden gehen erneut auf Tuchfühlung. TomsenXL schafft es unbeschadet, SteenbockMax auf zwei verbleibende Herzen herunterzuschlagen. Doch dann distanzieren sich die beiden etwas voneinander und regenerieren, indem sie das im Kit enthaltene gebratene Steak essen. 🥩
+Der Himmel klart etwas auf im Tropenstadion, und die beiden gehen erneut auf Tuchfühlung. TomsenXL schafft es unbeschadet, SteenbockMax' Leben auf zwei verbleibende Herzen zu reduzieren. Doch dann distanzieren sich die beiden etwas voneinander und regenerieren, indem sie das im [Kit](/posts/SYCiugoA/) enthaltene gebratene Steak essen.
 
 Schnell schaltet TomsenXL aber wieder einen Gang höher und setzt einige gezielte Treffer mit seinen Pfeilen. Es ist ein echtes Hin und Her zwischen Bogen und Schwert, aber SteenbockMax schafft es, Abstand von seinem Kontrahenten zu halten und sich geschickt hinter Objekten zu verstecken! Das gibt ihm eine Chance zum Regenerieren. 🌟
 
 Doch sein Gegner schafft es, ihn wieder aus der Deckung zu locken – das Bogenduell geht weiter. 🏹
 
-Der Gong ertönt: Nur noch 30 Sekunden! ⏳ Die Anspannung beider Kämpfer steigt, und das Duell wird wieder etwas hitziger. Doch durch geschicktes Ausweichen und Regenerieren schafft es Max, TomsenXLs niederprasselnden Pfeilen zu entkommen.
+Der Gong ertönt: **Nur noch 30 Sekunden!** ⏳ Die Anspannung beider Kämpfer steigt, und das Duell wird wieder etwas hitziger. Doch durch geschicktes Ausweichen und Regenerieren schafft es Max, TomsenXLs niederprasselnden Pfeilen zu entkommen.
 
-### Klarer Sieg für TomsenXL
+### Spielende: TomsenXL als Sieger gekrönt
 
-In den letzten Momenten des Spiels versucht TomsenXL einen erneuten Nahkampfangriff, doch da ertönt erneut der Gong und das Spiel ist offiziell beendet! TomsenXL gewinnt das erste Spiel des PVP-Projekts mit 6 zu 0 Punkten gegen SteenbockMax! 🎉
+In den letzten Momenten des Spiels versucht TomsenXL einen erneuten Nahkampfangriff, doch da ertönt erneut der Gong – das Spiel ist offiziell beendet! TomsenXL gewinnt das erste Spiel des PVP-Projekts mit 6:0 Punkten gegen SteenbockMax! 🎊
+
+## Die Nachbesprechung: Einblicke & Interviews
+
+Für dieses und für alle kommenden Spiele werden wir stets Nachbesprechungen bzw. Interviews mit den Teilnehmern halten (wir versuchen zumindest, daran zu denken 😅) und sie zu ihrer Runde befragen.
+
+### Interview mit TomsenXL
+
+**So Tom, was sagst du zu deinem grandiosen Sieg in der ersten Runde in diesem PVP-Projekt? Du hast gegen Max gespielt und du hast 6:0 gewonnen. Was sagst du dazu?**
+
+> D war eigentlich ein easy Win. Er hat mir nicht wirklich Damage gemacht.
+> Am Ende habe ich dann einfach nur noch gespielt, damit es ein bisschen spannender aussieht.
+> Aber insgesamt ist der 6:0 Sieg berechtigt, würde ich sagen.
+
+**Das erste Kit war bewusst einfach gehalten – begrenzte Pfeile, Schwert, Axt, Bogen und Dia-Rüstung. Wie schätzt du deine Chancen in den nächsten Runden mit komplexeren Kits ein? Kommst du damit zurecht oder könnte dich mehr Ausrüstung überfordern?**
+
+> Ich denke, mit mehr Tools in anderen Kits ist es spannend, denn dann hat man jede Runde andere Kits. Ich denke, das finde ich gut.
+
+**Du wirst ja als nächstes gegen Arion spielen. Wie schätzt du dich in dem Match ein?**
+
+> Boa, gegen Arion... Das ist schon ein harter Brocken. Ich glaube, es wird ein 3:2 für Arion.
+
+### Interview mit SteenbockMax
+
+**Okay Max, du hast jetzt das erste Spiel gespielt und du hast 6:0 gegen Tom verloren. Was würdest du erstmal dazu sagen?**
+
+> Das ist scheiße. Ich hätte gedacht, dass ich wenigstens einen Kill erziele, aber ich war doch ein bisschen schlechter, als ich gedacht hatte.
+
+**Man sollte natürlich nicht unbeachtet lassen, dass du im Vergleich zu anderen Teilnehmern dieses Projekts ziemlich wenig Erfahrung in Minecraft hast. Besteht da das Potenzial für Verbesserung oder was sind deine Pläne für die nächsten Spiele?**
+
+> Mehr Kills machen. Vielleicht auch mal ein Spiel gewinnen. Aber ich glaube, das wird eher nichts.
+
+**Als nächstes spielst du ja gegen LeFish. Kannst du schon einschätzen, wie du gegen LeFish abschneiden wirst?**
+
+> Ich denke mal, das wird ein knackiges 5:1.
+
+## Tabellenstand nach diesem Spiel
+
+| Platzierung | Spielername  | Gespielte Spiele | Kill-Differenz | Punkte |
+| ----------- | ------------ | ---------------- | -------------- | ------ |
+| #1          | TomsenXL     | 1                | +6             | 3      |
+| #6          | SteenbockMax | 1                | -6             | 0      |
+
+Wir bleiben gespannt auf die nächsten Spiele. 🎯 Den Uploadplan findet ihr [hier](/posts/gq8Rwz5e/).
