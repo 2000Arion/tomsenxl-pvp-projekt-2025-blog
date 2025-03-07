@@ -2,17 +2,19 @@
 layout: post
 title: TomsenXL vs. SteenbockMax – Der erste Showdown!
 slug: KzaRV40m
-date: 
+date: 2025-03-07 18:29 +0100
 authors: arion2000
 categories:
-  - 1. Spieltag
-  - Zusammenfassung
-  - Interview
-tags: [TomsenXL (TXL), SteenbockMax (MAX), Match, Interview]
+- 1. Spieltag
+- Spiele
+tags:
+- TomsenXL (TXL)
+- SteenbockMax (MAX)
+- Match
+- Interview
 image:
   path: https://pinboard-uploads-production.operacdn.com/images/deb333f5-0df0-4e86-8651-c84f08100fe0/5b3ff8f5-1964-4949-ae7b-15942bb35b75/28ccf54b-75f2-44d4-8604-6e8ffcdc6dae.png
 ---
-
 Die Arena ist bereit, die Spieler stehen sich gegenüber – es ist Zeit für das erste Duell des PVP-Projekts! Mit dabei sind **TomsenXL** und **SteenbockMax**.
 
 Von den insgesamt 6 Teilnehmern des PVP-Projekts startet SteenbockMax lautet eigenen Angaben mit nur etwa 1,5 Stunden Spielerfahrung als klarer Underdog in dieses Match. Sein Gegner: TomsenXL, Minecraft-Spieler mit deutlicher Routine und Gastgeber dieses Projekts. Doch in Minecraft-PVP kann alles passieren – wir sind gespannt, wie sich die beiden schlagen werden! 👀🔥
@@ -25,7 +27,7 @@ Von den insgesamt 6 Teilnehmern des PVP-Projekts startet SteenbockMax lautet eig
 
 Informationen über das Kit für den ersten Spieltag findest du [hier](/posts/SYCiugoA/).
 
-## Spielzusammenfassung
+## Spielzusammenfassung 📑
 
 ### Der Startschuss fällt - Es startet mit Nahkampf-Action
 
@@ -81,7 +83,7 @@ Für dieses und für alle kommenden Spiele werden wir stets Nachbesprechungen bz
 
 **So Tom, was sagst du zu deinem grandiosen Sieg in der ersten Runde in diesem PVP-Projekt? Du hast gegen Max gespielt und du hast 6:0 gewonnen. Was sagst du dazu?**
 
-> D war eigentlich ein easy Win. Er hat mir nicht wirklich Damage gemacht.
+> Das war eigentlich ein easy Win. Er hat mir nicht wirklich Damage gemacht.
 > Am Ende habe ich dann einfach nur noch gespielt, damit es ein bisschen spannender aussieht.
 > Aber insgesamt ist der 6:0 Sieg berechtigt, würde ich sagen.
 
