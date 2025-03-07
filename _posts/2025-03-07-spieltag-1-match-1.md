@@ -28,6 +28,8 @@ Von den insgesamt 6 Teilnehmern des PVP-Projekts startet SteenbockMax laut eigen
 
 Informationen über das Kit für den ersten Spieltag findest du [hier](/posts/SYCiugoA/).
 
+---
+
 ## Spielzusammenfassung  📑
 
 ### Der Startschuss fällt - Es startet mit Nahkampf-Action
@@ -76,9 +78,13 @@ Der Gong ertönt: **Nur noch 30 Sekunden!** ⏳ Die Anspannung beider Kämpfer s
 
 In den letzten Momenten des Spiels versucht TomsenXL einen erneuten Nahkampfangriff, doch da ertönt erneut der Gong – das Spiel ist offiziell beendet! TomsenXL gewinnt das erste Spiel des PVP-Projekts mit 6:0 Punkten gegen SteenbockMax! 🎊
 
+---
+
 ## Die Nachbesprechung: Einblicke & Interviews
 
 Für dieses und für alle kommenden Spiele werden wir stets Nachbesprechungen bzw. Interviews mit den Teilnehmern halten (wir versuchen zumindest, daran zu denken 😅) und sie zu ihrer Runde befragen.
+
+---
 
 ### Interview mit TomsenXL
 
@@ -96,6 +102,8 @@ Für dieses und für alle kommenden Spiele werden wir stets Nachbesprechungen bz
 
 > Boa, gegen Arion... Das ist schon ein harter Brocken. Ich glaube, es wird ein 3:2 für Arion.
 
+---
+
 ### Interview mit SteenbockMax
 
 **Okay Max, du hast jetzt das erste Spiel gespielt und du hast 6:0 gegen Tom verloren. Was würdest du erstmal dazu sagen?**
@@ -109,6 +117,8 @@ Für dieses und für alle kommenden Spiele werden wir stets Nachbesprechungen bz
 **Als nächstes spielst du ja gegen LeFish. Kannst du schon einschätzen, wie du gegen LeFish abschneiden wirst?**
 
 > Ich denke mal, das wird ein knackiges 5:1.
+
+---
 
 ## Tabellenstand nach diesem Spiel
 
