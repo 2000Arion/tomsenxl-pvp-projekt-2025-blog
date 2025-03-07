@@ -84,8 +84,6 @@ In den letzten Momenten des Spiels versucht TomsenXL einen erneuten Nahkampfangr
 
 Für dieses und für alle kommenden Spiele werden wir stets Nachbesprechungen bzw. Interviews mit den Teilnehmern halten (wir versuchen zumindest, daran zu denken 😅) und sie zu ihrer Runde befragen.
 
----
-
 ### Interview mit TomsenXL
 
 **So Tom, was sagst du zu deinem grandiosen Sieg in der ersten Runde in diesem PVP-Projekt? Du hast gegen Max gespielt und du hast 6:0 gewonnen. Was sagst du dazu?**
