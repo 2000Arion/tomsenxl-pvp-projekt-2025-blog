@@ -20,6 +20,17 @@ Das Finale und das Halbfinale werden live auf [Twitch](https://twitch.tv/tomsenx
 
 Auf dieser Webseite werdet ihr immer über die **aktuellsten Informationen** und **Updates** zu den Turnierrunden auf dem Laufenden gehalten! 🌐✨
 
+> **FAQ**
+>
+> ### Wie lange dauert ein Match?
+>
+> Ein Spiel dauert immer 10 Minuten. Wenn ein Spieler stirbt, rüsten sich beide neu aus und starten von ihrem ursprünglichen Startpunkt mit der verbleibenden Restzeit erneut.
+>
+> ### Was ist eine *Runde* und was ist ein *Spiel*?
+>
+> Damit niemand mit den Begriffen durcheinander kommt, hier eine Erklärung: Ein **Spiel** (oder *Match*) ist das gesamte Duell zwischen zwei Spielern. Eine **Runde** ist ein Abschnitt innerhalb dieses Spiels. Eine Runde endet, wenn ein Spieler stirbt, und danach beginnt eine neue Runde.
+{: .prompt-info }
+
 ## Das Ankündigungsvideo auf YouTube
 
 {% include embed/youtube.html id='0NJR6izx9o8' %}
