@@ -2,7 +2,7 @@
 layout: post
 title: TomsenXL vs. SteenbockMax – Der erste Showdown!
 slug: KzaRV40m
-date: 2025-03-07 18:40 +0100
+date: 2025-03-07 19:02 +0100
 authors: arion2000
 categories:
 - 1. Spieltag
