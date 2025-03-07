@@ -6,8 +6,7 @@ date: 2025-03-07 18:40 +0100
 authors: arion2000
 categories:
 - 1. Spieltag
-- Zusammenfassung
-- Interview
+- Spiele
 tags:
 - 1. Spieltag
 - Match
