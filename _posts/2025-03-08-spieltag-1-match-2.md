@@ -121,6 +121,8 @@ Noch **30 Sekunden!** Aaron nutzt die kurze Ruhe, um ein Steak zu essen – **do
 
 > Ich sage, das wird ein stabiles 4:2 für mich.
 
+---
+
 ### Interview mit LeFish
 
 **Was sagst du zu deinem 6:0 Sieg gegen Aaron?**
@@ -134,6 +136,8 @@ Noch **30 Sekunden!** Aaron nutzt die kurze Ruhe, um ein Steak zu essen – **do
 **Was denkst du, mit welcher Taktik könntest du Max beim nächsten Spiel besiegen?**
 
 > Auf jeden Fall mehr mit der Axt arbeiten. Das war glaube ich auch mein Fehler bei diesem Match. Mit der Axt sein Schild kaputt machen und sonst so wie jetzt gerade. Immer daran denken, die neue Kampftechnik zu verwenden.
+
+---
 
 ## Tabellenstand nach diesem Spiel
 
