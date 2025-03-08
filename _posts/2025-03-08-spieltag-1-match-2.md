@@ -79,7 +79,6 @@ Seine Taktik aus den vorherigen Runden scheint sich auch hier zu bewähren: Es d
 ### Seitenwechsel 🚌 Kann Aaron das Blatt doch noch wenden?
 
 > Um sicherzugehen, dass es keine größeren technischen Probleme gibt, haben wir die beiden Kämpfer gebeten, spontan die Seiten zu tauschen. Ob wir das Problem dadurch bestätigen können, werden wir sehen.
->
 > -- <cite>Arion2000</cite>
 
 Der Startschuss fällt erneut – dieses Mal starten beide von der gegenüberliegenden Seite. Doch schnell wird klar: **LeFish bleibt seiner aggressiven Taktik treu!** 💨⚔️
