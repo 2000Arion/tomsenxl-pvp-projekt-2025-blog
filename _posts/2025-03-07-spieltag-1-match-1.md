@@ -62,7 +62,7 @@ Trotz des laut prasselnden Regens in der sechsten Runde stürmen die beiden Käm
 
 Die Eintönigkeit der Runden scheint aber auch Auswirkungen auf TomsenXLs Spielstil zu haben: Im Gegensatz zu den vorherigen Runden scheint er zu Beginn der sechsten Runde seine Axt weniger zu verwenden – eine Chance für SteenbockMax? 👀
 
-Beide blocken geschickt die Attacken des jeweils anderen ab – das dumpfe Knacken der Schilder ist für eine ganze Weile das einzige, was man hört. Doch dann schafft es TomsenXL, im richtigen Moment mit seiner Dia-Axt Max' Schild zu deaktivieren und mit einem finalen Bogenschuss auch die 6. Runde für sich zu entscheiden. Der Zähler zeigt **6:0 für TomsenXL**. 📊
+Beide blocken geschickt die Attacken des jeweils anderen ab – das dumpfe Knacken der Schilde ist für eine ganze Weile das einzige, was man hört. Doch dann schafft es TomsenXL, im richtigen Moment mit seiner Dia-Axt Max' Schild zu deaktivieren und mit einem finalen Bogenschuss auch die 6. Runde für sich zu entscheiden. Der Zähler zeigt **6:0 für TomsenXL**. 📊
 
 ### Die letzte Minute tickt - Max endlich aufgewärmt? 🆙⚡
 
