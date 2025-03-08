@@ -126,9 +126,9 @@ Noch **30 Sekunden!** Aaron nutzt die kurze Ruhe, um ein Steak zu essen – **do
 
 **Was sagst du zu deinem 6:0 Sieg gegen Aaron?**
 
-> Ich würde schon sagen, dass es relativ einfach für mich war, weil er gespamclicked hat und nicht die neue Kampftechnik verwendet hat. Die Technik, die man ab Version 1.9 verwenden sollte.
+> Ich würde schon sagen, dass es relativ einfach für mich war, weil er gespamclicked hat und nicht die neue Kampftechnik verwendet hat. Damit meine ich die Technik, die man ab Version 1.9 verwenden sollte.
 
-**Ja gut, okay, das könnte der Fehler bei Aaron gewesen sein. Als nächstes spielst du gegen Max, was für ein Ergebnis erwartest du für dieses Spiel?**
+**Als nächstes spielst du gegen Max, was für ein Ergebnis erwartest du für dieses Spiel?**
 
 > Also, ein faires Ergebnis wäre vielleicht 5:1 oder 6:1 für mich.
 
