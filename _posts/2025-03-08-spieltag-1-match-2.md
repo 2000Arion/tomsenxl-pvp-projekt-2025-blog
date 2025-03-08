@@ -114,7 +114,7 @@ Noch **30 Sekunden!** Aaron nutzt die kurze Ruhe, um ein Steak zu essen – **do
 
 **Okay, du hoffst auf Platz 2. Denkst du, du wirst deine nächsten Gegner (z.B. Sukram2.0) besiegen?**
 
-> Ja, das kann fair werden. Ich glaube, Markus *(Sukram2.0)* ist jetzt nicht so viel krasser als ich. Ich glaube, ich bin besser als er. Da werde ich Punkte holen - auch gegen Max wird es spannend. Gegen TomsenXL wird es spannend. Bei Arion weiß ich es nicht, gegen den habe ich noch nie gekämpft.
+> Ja, das kann fair werden. Ich glaube, Markus *(Sukram2.0)* ist jetzt nicht so viel krasser als ich. Ich glaube, ich bin besser als er. Da werde ich Punkte holen - auch gegen Max wird es spannend. Gegen TomsenXL wird es ebenfalls spannend. Bei Arion weiß ich es nicht, gegen den habe ich noch nie gekämpft.
 
 **Was ist dein Tipp für dein nächstes Spiel gegen Markus?**
 
@@ -126,7 +126,7 @@ Noch **30 Sekunden!** Aaron nutzt die kurze Ruhe, um ein Steak zu essen – **do
 
 **Was sagst du zu deinem 6:0 Sieg gegen Aaron?**
 
-> Ich würde schon sagen, dass es relativ einfach für mich war, weil er gespammclicked hat und nicht die neue Kampftechnik verwendet hat. Die Technik, die man ab Version 1.9 verwenden sollte.
+> Ich würde schon sagen, dass es relativ einfach für mich war, weil er gespamclicked hat und nicht die neue Kampftechnik verwendet hat. Die Technik, die man ab Version 1.9 verwenden sollte.
 
 **Ja gut, okay, das könnte der Fehler bei Aaron gewesen sein. Als nächstes spielst du gegen Max, was für ein Ergebnis erwartest du für dieses Spiel?**
 
