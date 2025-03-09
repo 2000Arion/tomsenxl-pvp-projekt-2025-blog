@@ -17,7 +17,7 @@ Hier erfährst du, wann die nächsten YouTube-Videos online gehen – bleib gesp
 
 - **[07.03.2025 um 16 Uhr](https://www.youtube.com/watch?v=JDZmtb7MFrk "Matchday 1 Game 1 I TomsenXL VS SteenbockMax")**: <u>TomsenXL</u> gegen <u>SteenbockMax</u>
 - **[08.03.2025 um 16 Uhr](https://www.youtube.com/watch?v=VAZcs-1VbSk "Matchday 1 Game 2 I LeFish VS Aaron123337")**: <u>LeFish</u> gegen <u>Aaron123337</u>
-- **09.03.2025 um 16 Uhr**: <u>Sukram2.0</u> gegen <u>Arion2000</u>
+- **[09.03.2025 um 16 Uhr](https://www.youtube.com/watch?v=tCb2TDxrVLQ "Matchday 1 Game 3 I Sukram2.0 VS Arion2000")**: <u>Sukram2.0</u> gegen <u>Arion2000</u>
 
 ---
 
