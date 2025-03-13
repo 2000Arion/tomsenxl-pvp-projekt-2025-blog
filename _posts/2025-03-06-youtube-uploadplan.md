@@ -13,6 +13,14 @@ pin: true
 ---
 Hier erfährst du, wann die nächsten YouTube-Videos online gehen – bleib gespannt!
 
+## Termine für die Runden des zweiten Spieltags
+
+- **14.03.2025 um 16 Uhr**: <u>Aaron123337</u> gegen <u>Sukram2.0</u>
+- **15.03.2025 um 16 Uhr**: <u>steenbockmax</u> gegen <u>LeFish</u>
+- **16.03.2025 um 16 Uhr**: <u>Arion2000</u> gegen <u>TomsenXL</u>
+
+---
+
 ## Termine für die Runden des ersten Spieltags
 
 - **[07.03.2025 um 16 Uhr](https://www.youtube.com/watch?v=JDZmtb7MFrk "Matchday 1 Game 1 I TomsenXL VS SteenbockMax")**: <u>TomsenXL</u> gegen <u>SteenbockMax</u>
