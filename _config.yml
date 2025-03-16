@@ -201,6 +201,10 @@ compress_html:
   ignore:
     envs: [development]
 
+# Enable incremental build to only regenerate posts and pages that have changed.
+# https://jekyllrb.com/docs/configuration/incremental-regeneration/
+incremental: true
+
 exclude:
   - "*.gem"
   - "*.gemspec"
@@ -234,8 +238,11 @@ jekyll_compose:
       image:
         path:
     posts:
-      description:
-      image:
-      category:
+      slug:
+      date:
+      authors:
+      categories:
         -
       tags: []
+      image:
+        path:

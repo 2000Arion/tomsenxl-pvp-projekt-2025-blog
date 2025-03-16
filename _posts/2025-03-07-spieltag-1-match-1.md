@@ -32,7 +32,7 @@ Informationen über das Kit für den ersten Spieltag findest du [hier](/posts/SY
 
 ## Spielzusammenfassung  📑
 
-### Der Startschuss fällt - Es startet mit Nahkampf-Action
+### Der Startschuss fällt – Es startet mit Nahkampf-Action
 
 Der Countdown läuft: **3, 2, 1... LOS!** 🚀 Kaum ertönt das Startsignal, laufen die beiden Duell-Teilnehmer TomsenXL und SteenbockMax entschlossen aufeinander zu. Nach einem kurzen Schlagabtausch mit ihren Bögen geht es direkt auf Tuchfühlung.
 
@@ -52,7 +52,7 @@ Das ist eindeutig der zweite Punkt für TomsenXL! 🔥
 
 ### 💪 Die Routine zahlt sich aus
 
-Die bisherige Taktik von TomsenXL scheint im Duell gegen SteenbockMax die richtige zu sein - Kurzer Anfangsschaden mit dem Bogen, dann ein schneller und aktiver Schwertkampf. Immer nach dem Motto: **Mehr Schaden verursachen, als man selbst erleidet – und bei Bedarf durch schnelles Essen regenerieren!**
+Die bisherige Taktik von TomsenXL scheint im Duell gegen SteenbockMax die richtige zu sein – Kurzer Anfangsschaden mit dem Bogen, dann ein schneller und aktiver Schwertkampf. Immer nach dem Motto: **Mehr Schaden verursachen, als man selbst erleidet – und bei Bedarf durch schnelles Essen regenerieren!**
 
 So befindet man sich erneut in einer ähnlichen Situation auch in der dritten Runde: Max hat nur noch ein halbes Herz und blockt durchgängig mit seinem Schild, TomsenXL wartet mit gespanntem Bogen nur darauf, dass dieser für einen kurzen Moment unaufmerksam wird. In der Not sieht SteenbockMax seine einzige Chance darin, selbst mit seinem Schwert in den Angriff zu gehen. Doch mit dieser Entscheidung findet er sich schnell wieder im Glaskasten am Spawn. ❌
 
@@ -64,7 +64,7 @@ Die Eintönigkeit der Runden scheint aber auch Auswirkungen auf TomsenXLs Spiels
 
 Beide blocken geschickt die Attacken des jeweils anderen ab – das dumpfe Knacken der Schilde ist für eine ganze Weile das einzige, was man hört. Doch dann schafft es TomsenXL, im richtigen Moment mit seiner Dia-Axt Max' Schild zu deaktivieren und mit einem finalen Bogenschuss auch die 6. Runde für sich zu entscheiden. Der Zähler zeigt **6:0 für TomsenXL**. 📊
 
-### Die letzte Minute tickt - Max endlich aufgewärmt? 🆙⚡
+### Die letzte Minute tickt – Max endlich aufgewärmt? 🆙⚡
 
 Der Himmel klart etwas auf im Tropenstadion, und die beiden gehen erneut auf Tuchfühlung. TomsenXL schafft es unbeschadet, SteenbockMax' HP auf zwei Herzen zu reduzieren. Doch dann distanzieren sich die beiden etwas voneinander und regenerieren, indem sie das im [Kit](/posts/SYCiugoA/) enthaltene gebratene Steak essen.
 
