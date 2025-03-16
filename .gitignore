@@ -5,7 +5,10 @@ vendor
 # Jekyll cache
 .jekyll-cache
 .jekyll-metadata
-_site
+_site/*
+
+# exclude _headers
+!_site/_headers
 
 # RubyGems
 *.gem
