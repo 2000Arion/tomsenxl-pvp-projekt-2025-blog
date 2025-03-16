@@ -104,7 +104,7 @@ Mit der gewohnten Routine blockt Arion die Pfeile, nähert sich unaufhaltsam und
 
 > Das war jetzt nicht das beste Spiel. Das hat mich schon ein bisschen verletzt jetzt, dass ich so krass verloren habe. Aber, das wird sicherlich besser.
 
-**Mit welcher Taktik hättest du denn Arion gesiegen können?**
+**Mit welcher Taktik hättest du denn Arion besiegen können?**
 
 > Gute Frage, ich weiß es nicht. Ich hätte vielleicht ein bisschen mehr warten müssen, allgemeina auf jeden Fall mehr Taktik spielen.
 
