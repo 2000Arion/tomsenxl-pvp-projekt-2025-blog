@@ -24,8 +24,8 @@ Das Kit für den zweiten Spieltag ist eine deutliche Weiterentwicklung im Vergle
 
 ## 🔥 Waffen im Kit
 
-- **Eisenschwert (`Schärfe I`)** ⚔️: Vielleicht nicht übermächtig, aber für erfahrene Kämpfer vollkommen ausreichend.
-- **Goldaxt (`Rückstoß III`)** 🪓: Kann Schilde zerstören und verschafft einem mithilfe der Rückstoß-Verzauberung ein wenig Luft im hitzigen Gefecht.
+- **Eisenschwert (**`Schärfe I`**)** ⚔️: Vielleicht nicht übermächtig, aber für erfahrene Kämpfer vollkommen ausreichend.
+- **Goldaxt (**`Rückstoß III`**)** 🪓: Kann Schilde zerstören und verschafft einem mithilfe der Rückstoß-Verzauberung ein wenig Luft im hitzigen Gefecht.
 - **Bogen** 🏹 und **24 Pfeile**: Ein *Must-Have* für alle Fernkämpfer! Aber aufgepasst: Die Pfeile sind etwas knapper, als am ersten Spieltag.
 
 Zusätzlich gibt es **eine komplette Diamantrüstung** ✨ mit den folgenden Verzauberungen:
