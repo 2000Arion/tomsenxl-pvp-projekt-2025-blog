@@ -141,4 +141,4 @@ Mit der gewohnten Routine blockt Arion die Pfeile, nähert sich unaufhaltsam und
 | #5 &#128314; | SteenbockMax | 1                | -6             | 0      |
 | #6 &#128315; | Sukram2.0    | 1                | -7             | 0      |
 
-Danke, dass du das PVP-Projekt aktiv verfolgst und dir auch dieses Spiel angeschaut hast! ❤️ Wann das nächste Video online geht, kannst du wie immer im [Uploadplan](posts/gq8Rwz5e/) nachschauen. 📈☺️
+Danke, dass du das PVP-Projekt aktiv verfolgst und dir auch dieses Spiel angeschaut hast! ❤️ Wann das nächste Video online geht, kannst du wie immer im [Uploadplan](/posts/gq8Rwz5e/) nachschauen. 📈☺️
