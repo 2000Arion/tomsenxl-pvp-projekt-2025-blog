@@ -7,9 +7,6 @@ vendor
 .jekyll-metadata
 _site/*
 
-# exclude _headers
-!_site/_headers
-
 # RubyGems
 *.gem
 
