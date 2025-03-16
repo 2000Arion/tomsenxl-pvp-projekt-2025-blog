@@ -1,2 +1,5 @@
 /assets/*
   Cache-Control: public, max-age=86400, must-revalidate
+  Content-Encoding: gzip
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  X-Content-Type-Options: nosniff
