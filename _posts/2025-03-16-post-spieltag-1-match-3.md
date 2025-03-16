@@ -102,15 +102,15 @@ Mit der gewohnten Routine blockt Arion die Pfeile, nähert sich unaufhaltsam und
 
 **Was sagst du zu deiner 7:0 Niederlage gegen Arion?**
 
-> Das war jetzt nicht das beste Spiel. Das hat mich schon ein bisschen verletzt jetzt, dass ich so krass verloren habe. Aber, das wird sicherlich besser.
+> Das war jetzt nicht das beste Spiel. Das hat mich schon ein bisschen verletzt jetzt, dass ich so krass verloren habe. Aber, das wird sicherlich [in den nächsten Spielen] besser.
 
 **Mit welcher Taktik hättest du denn Arion besiegen können?**
 
-> Gute Frage, ich weiß es nicht. Ich hätte vielleicht ein bisschen mehr warten müssen, allgemeina auf jeden Fall mehr Taktik spielen.
+> Gute Frage, ich weiß es nicht. Ich hätte vielleicht ein bisschen mehr warten müssen, allgemein auf jeden Fall mehr Taktik spielen.
 
 **Als nächstes wirst du ja gegen Aaron123337 spielen. Was ist dein Tipp für das Spiel?**
 
-> Ja, ich denke, dass Aaron auf jeden Fall zwar auch ganz okay ist…  Aber ich glaube, wir sind so halbwegs in einer Liga. Ich denke, dass es ein gutes Match wird.
+> Ja, ich denke, dass Aaron auf jeden Fall zwar auch ganz okay ist, aber ich glaube, wir sind so halbwegs in einer Liga. Ich denke, dass es ein gutes Match werden wird.
 
 ---
 
