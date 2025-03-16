@@ -54,7 +54,7 @@ Von den Herzen her sieht es zunächst nicht gut aus für LeFish – er liegt im 
 
 Aaron kämpft verbissen, doch er kann das Ruder nicht mehr herumreißen. Drei präzise Schläge später ist es vorbei – **LeFish gewinnt auch die zweite Runde!** **2:0!** 🏆🔥
 
-### Verschanzt hinter einer Mauer - reichen Aarons Bogenkünste für seinen ersten Punkt? 🏰
+### Verschanzt hinter einer Mauer – reichen Aarons Bogenkünste für seinen ersten Punkt? 🏰
 
 Nach kurzen technischen Schwierigkeiten beim Start der dritten Runde, heißt es für die beiden starken Kämpfer erneut **Los!** Der anfängliche Bogenkampf verläuft wie gewohnt: **Verstecken, kurz um die Ecke luken, Pfeile abfeuern.** 🏹 Doch wer wagt sich als Erster nach vorne?
 
