@@ -15,9 +15,9 @@ Hier erfährst du, wann die nächsten YouTube-Videos online gehen – bleib gesp
 
 ## Termine für die Runden des dritten Spieltags
 
-- **23.03.2025 um 16 Uhr**: <u>Sukram2.0</u> gegen <u>LeFish</u>
-- **22.03.2025 um 16 Uhr**: <u>Aaron123337</u> gegen <u>TomsenXL</u>
-- **[21.03.2025 um 16 Uhr](https://youtu.be/1vWqDYo9BW0 "Matchday 3 Game 1 • Arion2000 VS SteenbockMax")**: <u>Arion2000</u> gegen <u>SteenbockMax</u>
+- **[23.03.2025 um 16 Uhr](https://www.youtube.com/watch?v=cU2TJsgW8Zw "Matchday 3 Game 3 • Sukram2.0 VS LeFish")**: <u>Sukram2.0</u> gegen <u>LeFish</u>
+- **[22.03.2025 um 16 Uhr](https://www.youtube.com/watch?v=7C0UP4SjJZE "Matchday 3 Game 2 • Aaron123337 VS TomsenXL")**: <u>Aaron123337</u> gegen <u>TomsenXL</u>
+- **[21.03.2025 um 16 Uhr](https://www.youtube.com/watch?v=1vWqDYo9BW0 "Matchday 3 Game 1 • Arion2000 VS SteenbockMax")**: <u>Arion2000</u> gegen <u>SteenbockMax</u>
 
 ---
 
