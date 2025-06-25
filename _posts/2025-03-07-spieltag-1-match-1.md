@@ -14,7 +14,8 @@ tags:
 - TomsenXL (TXL)
 - SteenbockMax (MAX)
 image:
-  path: https://pinboard-uploads-production.operacdn.com/images/deb333f5-0df0-4e86-8651-c84f08100fe0/5b3ff8f5-1964-4949-ae7b-15942bb35b75/28ccf54b-75f2-44d4-8604-6e8ffcdc6dae.png
+  path: "/assets/img/headers/spieltag-1-match-1.avif"
+  lqip: "data:image/avif;base64,AAAAIGZ0eXBhdmlmAAAAAGF2aWZtaWYxbWlhZk1BMUIAAAD5bWV0YQAAAAAAAAAvaGRscgAAAAAAAAAAcGljdAAAAAAAAAAAAAAAAFBpY3R1cmVIYW5kbGVyAAAAAA5waXRtAAAAAAABAAAAHmlsb2MAAAAARAAAAQABAAAAAQAAASEAAAB6AAAAKGlpbmYAAAAAAAEAAAAaaW5mZQIAAAAAAQAAYXYwMUNvbG9yAAAAAGppcHJwAAAAS2lwY28AAAAUaXNwZQAAAAAAAAAUAAAADQAAABBwaXhpAAAAAAMICAgAAAAMYXYxQ4EADAAAAAATY29scm5jbHgAAQANAAaAAAAAF2lwbWEAAAAAAAAAAQABBAECgwQAAACCbWRhdAoNAAAAAhzw//mQENBoQDJpEADAACCCDChVwCD9OMeV2YnnKKctoQ+8tAJjH1JhfvtrDkqnxu1KBYIopGxafLQbc65ST9/kclggNsSVvH0XerEnnHLoaArQnJUDuzLGYYdJdQNi8KULXkfQOw8NIpAEv6kpl3LCmREg"
 ---
 Die Arena ist bereit, die Spieler stehen sich gegenüber – es ist Zeit für das erste Duell des PVP-Projekts! Mit dabei sind **TomsenXL** und **SteenbockMax**.
 
