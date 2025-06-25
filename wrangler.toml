@@ -1,0 +1,5 @@
+name = "tomsenxl-pvp-projekt-2025-blog"
+compatibility_date = "2025-03-02"
+
+[assets]
+directory = "./_site"
