@@ -9,7 +9,7 @@ categories:
 tags: [Uploadplan]
 image:
   path: "/assets/img/headers/youtube-uploadplan.avif"
-  lqip: "/assets/img/headers/youtube-uploadplan.avif.b64"
+  lqip: "data:image/avif;base64,AAAAIGZ0eXBhdmlmAAAAAGF2aWZtaWYxbWlhZk1BMUIAAAD5bWV0YQAAAAAAAAAvaGRscgAAAAAAAAAAcGljdAAAAAAAAAAAAAAAAFBpY3R1cmVIYW5kbGVyAAAAAA5waXRtAAAAAAABAAAAHmlsb2MAAAAARAAAAQABAAAAAQAAASEAAAAuAAAAKGlpbmYAAAAAAAEAAAAaaW5mZQIAAAAAAQAAYXYwMUNvbG9yAAAAAGppcHJwAAAAS2lwY28AAAAUaXNwZQAAAAAAAAAUAAAACwAAABBwaXhpAAAAAAMICAgAAAAMYXYxQ4EADAAAAAATY29scm5jbHgAAQANAAaAAAAAF2lwbWEAAAAAAAAAAQABBAECgwQAAAA2bWRhdAoNAAAAAhzo//mQENBoQDIdEADAAECCCCgc4CD47SKWCMHgNav66JVBOhrQsg4="
 pin: true
 ---
 Hier erfährst du, wann die nächsten YouTube-Videos online gehen – bleib gespannt!
