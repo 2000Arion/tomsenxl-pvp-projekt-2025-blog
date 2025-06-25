@@ -9,7 +9,8 @@ categories:
     - Kits
 tags: [1. Spieltag, Dia-Schwert, Dia-Axt, Bogen, Schild, Full-Dia-Rüstung]
 image:
-    path: https://pinboard-uploads-production.operacdn.com/images/deb333f5-0df0-4e86-8651-c84f08100fe0/a150f18a-97b5-47ba-b453-e85069ace77a/7c3a61fc-3793-420a-8729-bb472e8443a1.png
+    path: "/assets/img/headers/kit-spieltag-1.avif"
+    lqip: "data:image/avif;base64,AAAAIGZ0eXBhdmlmAAAAAGF2aWZtaWYxbWlhZk1BMUIAAAD5bWV0YQAAAAAAAAAvaGRscgAAAAAAAAAAcGljdAAAAAAAAAAAAAAAAFBpY3R1cmVIYW5kbGVyAAAAAA5waXRtAAAAAAABAAAAHmlsb2MAAAAARAAAAQABAAAAAQAAASEAAAA1AAAAKGlpbmYAAAAAAAEAAAAaaW5mZQIAAAAAAQAAYXYwMUNvbG9yAAAAAGppcHJwAAAAS2lwY28AAAAUaXNwZQAAAAAAAAAUAAAABwAAABBwaXhpAAAAAAMICAgAAAAMYXYxQ4EADAAAAAATY29scm5jbHgAAQANAAaAAAAAF2lwbWEAAAAAAAAAAQABBAECgwQAAAA9bWRhdAoNAAAAAhTx//MgIaDQgDIkEADAAAEACCgbYCD3JmlnTRc2UcpDExcvSjUCCpZuqZUp8fXg"
 ---
 
 Am ersten Spieltag geht es mit einem eher simpel gehaltenen Kit los. **Doch einfach bedeutet nicht langweilig!**

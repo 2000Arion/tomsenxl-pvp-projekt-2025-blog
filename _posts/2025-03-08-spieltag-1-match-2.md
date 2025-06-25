@@ -14,7 +14,8 @@ tags:
 - LeFish (LFS)
 - Aaron123337 (AR1)
 image:
-  path: https://pinboard-uploads-production.operacdn.com/images/deb333f5-0df0-4e86-8651-c84f08100fe0/f8d701a6-0240-4631-b230-bc08545e7a13/ad23ff0e-e781-449c-9256-74e75c7241dc.png
+  path: "/assets/img/headers/spieltag-1-match-2.avif"
+  lqip: "data:image/avif;base64,AAAAIGZ0eXBhdmlmAAAAAGF2aWZtaWYxbWlhZk1BMUIAAAD5bWV0YQAAAAAAAAAvaGRscgAAAAAAAAAAcGljdAAAAAAAAAAAAAAAAFBpY3R1cmVIYW5kbGVyAAAAAA5waXRtAAAAAAABAAAAHmlsb2MAAAAARAAAAQABAAAAAQAAASEAAABTAAAAKGlpbmYAAAAAAAEAAAAaaW5mZQIAAAAAAQAAYXYwMUNvbG9yAAAAAGppcHJwAAAAS2lwY28AAAAUaXNwZQAAAAAAAAAUAAAACwAAABBwaXhpAAAAAAMICAgAAAAMYXYxQ4EADAAAAAATY29scm5jbHgAAQANAAaAAAAAF2lwbWEAAAAAAAAAAQABBAECgwQAAABbbWRhdAoNAAAAAhzo//mQENBoQDJCEADAAAACgcAC+/08ocGX/AvPPyEOOVXq69I2nUECk6bepZJ8IFEtfGlIC0PNlmkTdZM3nMiWPtDe8S/Ns/XAiivU"
 ---
 Nachdem sich bereits [TomsenXL und SteenbockMax](/posts/KzaRV40m/) in der Tropenarena ein spannendes Duell geliefert haben, ist es nun an der Zeit, dass **LeFish** und **Aaron123337** sich in einem fairen Kampf gegenüberstehen.
 

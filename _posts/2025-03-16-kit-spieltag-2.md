@@ -18,7 +18,8 @@ tags:
 - Spinnennetze
 - Goldäpfel
 image:
-  path: https://pinboard-uploads-production.operacdn.com/images/deb333f5-0df0-4e86-8651-c84f08100fe0/6415c2ee-adb6-46be-bd9a-3f1def634971/2464c1c8-6d22-4c3f-a833-f00f451b331f.png
+  path: "/assets/img/headers/kit-spieltag-2.avif"
+  lqip: "data:image/avif;base64,AAAAIGZ0eXBhdmlmAAAAAGF2aWZtaWYxbWlhZk1BMUIAAAD5bWV0YQAAAAAAAAAvaGRscgAAAAAAAAAAcGljdAAAAAAAAAAAAAAAAFBpY3R1cmVIYW5kbGVyAAAAAA5waXRtAAAAAAABAAAAHmlsb2MAAAAARAAAAQABAAAAAQAAASEAAAA5AAAAKGlpbmYAAAAAAAEAAAAaaW5mZQIAAAAAAQAAYXYwMUNvbG9yAAAAAGppcHJwAAAAS2lwY28AAAAUaXNwZQAAAAAAAAAUAAAABwAAABBwaXhpAAAAAAMICAgAAAAMYXYxQ4EADAAAAAATY29scm5jbHgAAQANAAaAAAAAF2lwbWEAAAAAAAAAAQABBAECgwQAAABBbWRhdAoNAAAAAhTx//MgIaDQgDIoEADAAEACCCilwCD1orThCXkuHvSTb48TwDbGJGNfY+3bNWSGebYY0Q=="
 ---
 Das Kit für den zweiten Spieltag ist eine deutliche Weiterentwicklung im Vergleich zu seinem Vorgänger. Es sind wesentlich mehr Items enthalten und dieses Mal auch platzierbare Spinnenweben. 🕷️🕸️
 

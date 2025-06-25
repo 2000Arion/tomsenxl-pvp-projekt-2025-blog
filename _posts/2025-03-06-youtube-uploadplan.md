@@ -8,7 +8,8 @@ categories:
   - Organisatorisches
 tags: [Uploadplan]
 image:
-  path: https://pinboard-uploads-production.operacdn.com/images/deb333f5-0df0-4e86-8651-c84f08100fe0/95d41412-6f13-4e4b-8173-7badbf4c3d43/5bcec485-bf54-4d0a-9e13-7d18af81d2fc.png
+  path: "/assets/img/headers/youtube-uploadplan.avif"
+  lqip: "data:image/avif;base64,AAAAIGZ0eXBhdmlmAAAAAGF2aWZtaWYxbWlhZk1BMUIAAAD5bWV0YQAAAAAAAAAvaGRscgAAAAAAAAAAcGljdAAAAAAAAAAAAAAAAFBpY3R1cmVIYW5kbGVyAAAAAA5waXRtAAAAAAABAAAAHmlsb2MAAAAARAAAAQABAAAAAQAAASEAAAAuAAAAKGlpbmYAAAAAAAEAAAAaaW5mZQIAAAAAAQAAYXYwMUNvbG9yAAAAAGppcHJwAAAAS2lwY28AAAAUaXNwZQAAAAAAAAAUAAAACwAAABBwaXhpAAAAAAMICAgAAAAMYXYxQ4EADAAAAAATY29scm5jbHgAAQANAAaAAAAAF2lwbWEAAAAAAAAAAQABBAECgwQAAAA2bWRhdAoNAAAAAhzo//mQENBoQDIdEADAAECCCCgc4CD47SKWCMHgNav66JVBOhrQsg4="
 pin: true
 ---
 Hier erfährst du, wann die nächsten YouTube-Videos online gehen – bleib gespannt!
