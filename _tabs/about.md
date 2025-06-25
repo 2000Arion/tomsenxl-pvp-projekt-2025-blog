@@ -6,7 +6,7 @@ order: 6
 
 Ein **riesiges Stadion**, **insgesamt 10 Runden** und **unterschiedliche Kits**. Das ist das neue Minecraft PVP Projekt! 🎉
 
-![Mittellinie der Tropenstadion-Arena](/assets/img/tropical-stadium-middle.avif)
+![Mittellinie der Tropenstadion-Arena](/assets/img/tropical-stadium-middle.avif){: width="2560" height="1440" lqip="data:image/avif;base64,AAAAIGZ0eXBhdmlmAAAAAGF2aWZtaWYxbWlhZk1BMUIAAAD5bWV0YQAAAAAAAAAvaGRscgAAAAAAAAAAcGljdAAAAAAAAAAAAAAAAFBpY3R1cmVIYW5kbGVyAAAAAA5waXRtAAAAAAABAAAAHmlsb2MAAAAARAAAAQABAAAAAQAAASEAAABnAAAAKGlpbmYAAAAAAAEAAAAaaW5mZQIAAAAAAQAAYXYwMUNvbG9yAAAAAGppcHJwAAAAS2lwY28AAAAUaXNwZQAAAAAAAAAUAAAACwAAABBwaXhpAAAAAAMICAgAAAAMYXYxQ4EADAAAAAATY29scm5jbHgAAQANAAaAAAAAF2lwbWEAAAAAAAAAAQABBAECgwQAAABvbWRhdAoNAAAAAhzo//mQENBoQDJWEADAAEACBCinQCDtUbQWcPmf3IMZ8t1ZJN8Ik8dW60psIuT3HjSPdejJNJBwCmCrOpCa3H3mudVD8rtRsfSzDO6VBGLOrZ2cjuH/RZO3V5gYO1+m3mE=" }
 
 Insgesamt **6 Spieler** treten in **spannenden 1v1-Kämpfen** gegeneinander an. In den **10 Vorrunden** gilt das Prinzip "**Jeder gegen Jeden**". Ein **Sieg bringt 3 Punkte**, ein **Unentschieden 1 Punkt** und eine **Niederlage 0 Punkte**. Wer wird sich durchsetzen und die meisten Punkte sammeln? 🏆
 
