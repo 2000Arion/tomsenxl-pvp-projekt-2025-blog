@@ -9,7 +9,7 @@ categories:
   - Spiele
 tags: [1. Spieltag, Match, Interview, Sukram2.0 (SKM), Arion2000 (ARO)]
 image:
-    path: "/assets/img/spieltag-1-match-3.header.avif"
+    path: "/assets/img/headers/spieltag-1-match-3.avif"
     lqip: "data:image/avif;base64,AAAAIGZ0eXBhdmlmAAAAAGF2aWZtaWYxbWlhZk1BMUIAAAD5bWV0YQAAAAAAAAAvaGRscgAAAAAAAAAAcGljdAAAAAAAAAAAAAAAAFBpY3R1cmVIYW5kbGVyAAAAAA5waXRtAAAAAAABAAAAHmlsb2MAAAAARAAAAQABAAAAAQAAASEAAABmAAAAKGlpbmYAAAAAAAEAAAAaaW5mZQIAAAAAAQAAYXYwMUNvbG9yAAAAAGppcHJwAAAAS2lwY28AAAAUaXNwZQAAAAAAAAAUAAAACwAAABBwaXhpAAAAAAMICAgAAAAMYXYxQ4EADAAAAAATY29scm5jbHgAAQANAAaAAAAAF2lwbWEAAAAAAAAAAQABBAECgwQAAABubWRhdAoNAAAAAhzo//mQENBoQDJVEADAAAACgMUC/Vhip+8XJimSRSKzDTJUsbinkVCgsJNcNw4L5zjBncuB6dWOqlZ3FxOpKA6/PUUo92LN1qZNrWPjdMmxe4B1zEARjIxZ90y7Dy0K+A=="
 ---
 
@@ -19,7 +19,7 @@ Damit einer der beiden nach dem ersten Spieltag direkt oben in der Tabelle mitsp
 
 > Anmerkung des Autors: Ich hatte zwar vergangene Woche viel zu tun und deshalb keine Zeit, weitere Spielzusammenfassungen zu schreiben, doch jetzt geht es auch auf dieser Webseite weiter!
 >
-> <img src="/assets/img/wumpus-typing.webp" alt="Wumpus Typing Emoji" width="45" height="45" style="vertical-align: middle;">
+> <img src="/assets/img/emojis/wumpus-typing.webp" alt="Wumpus Typing Emoji" width="45" height="45" style="vertical-align: middle;">
 
 ## Das Video zum Match auf YouTube ansehen 🎥
 
