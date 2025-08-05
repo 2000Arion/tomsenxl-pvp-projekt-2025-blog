@@ -60,7 +60,7 @@ install_bundler() {
 install_dependencies() {
   if [ -f Gemfile ]; then
     log_info "Installing gems from Gemfile"
-    bundle config set --local path '.bundle'
+    bundle config set --local path 'vendor/bundle'
     bundle install --jobs=4 --retry=3
     log_success "Gems installed"
   else
@@ -71,7 +71,7 @@ install_dependencies() {
 # Function: Run Jekyll validation checks
 run_checks() {
   log_info "Running 'jekyll doctor' for validation"
-  if bundle exec jekyll doctor --verbose; then
+  if bundle exec jekyll doctor; then
     log_success "'jekyll doctor' completed without errors"
   else
     log_warning "'jekyll doctor' reported issues – review output"
@@ -85,6 +85,7 @@ run_build() {
 
   log_info "Starting Jekyll build"
   bundle exec jekyll build --verbose
+  cp ./assets/_headers ./_site/_headers
   rm -f _site/wrangler.toml
   log_success "Jekyll build completed – output in _site/"
 }

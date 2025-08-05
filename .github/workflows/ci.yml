@@ -1,0 +1,86 @@
+name: CI Pipeline
+
+on:
+  push:
+    branches: ["**"]
+  schedule:
+    - cron: "35 8 * * 0"
+
+permissions:
+  contents: read
+  security-events: write
+  packages: read
+  actions: read
+
+jobs:
+  analyze:
+    name: CodeQL Analysis (${{ matrix.language }})
+    runs-on: ${{ (matrix.language == 'swift' && 'macos-latest') || 'ubuntu-latest' }}
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - language: ruby
+            build-mode: none
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Initialize CodeQL
+      - name: Initialize CodeQL
+        uses: github/codeql-action/init@v3
+        with:
+          languages: ${{ matrix.language }}
+          build-mode: ${{ matrix.build-mode }}
+          queries: security-extended,security-and-quality
+
+      # Run the analysis
+      - name: Perform CodeQL Analysis
+        uses: github/codeql-action/analyze@v3
+        with:
+          category: "/language:${{ matrix.language }}"
+
+  build-and-deploy:
+    name: Build & Deploy
+    needs: analyze
+    # only run on push events, skip PRs and scheduled runs
+    if: ${{ github.event_name == 'push' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3.9"
+
+      - name: Cache Ruby dependencies
+        uses: actions/cache@v4
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+
+      - name: Verify cache & install build dependencies
+        run: |
+          chmod +x build.sh
+          ls -la vendor || echo "vendor does not exist"
+          npm install wrangler
+
+      - name: Build & Deploy to Cloudflare
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+        run: |
+          if [[ "${{ github.ref_name }}" == "main" ]]; then
+            echo "🔵 Deploying to production"
+            npx wrangler deploy
+          else
+            echo "🟡 Deploying to preview environment for branch '${{ github.ref_name }}'"
+            COMMIT_HASH=$(git rev-parse --short=7 HEAD)
+            COMMIT_MESSAGE=$(git log -1 --pretty=%B)
+            echo "🔖 Tag: $COMMIT_HASH"
+            echo "📝 Message: $COMMIT_MESSAGE"
+            npx wrangler versions upload --tag "$COMMIT_HASH" --message "$COMMIT_MESSAGE"
+          fi
