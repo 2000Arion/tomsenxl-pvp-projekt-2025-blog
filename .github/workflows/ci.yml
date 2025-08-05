@@ -63,14 +63,13 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gems-
 
-      - name: Install dependencies & build
+      - name: Install dependencies
         run: |
           chmod +x build.sh
-          ./build.sh
           ls -la vendor || echo "vendor does not exist"
           npm install wrangler
 
-      - name: Deploy to Cloudflare
+      - name: Build & Deploy to Cloudflare
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
         run: |
