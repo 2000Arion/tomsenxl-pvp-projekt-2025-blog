@@ -76,7 +76,19 @@ jobs:
         run: |
           if [[ "${{ github.ref_name }}" == "main" ]]; then
             echo "🔵 Deploying to production"
-            npx wrangler deploy
+            COMMIT_HASH=$(git rev-parse --short=7 HEAD)
+            COMMIT_MESSAGE=$(git log -1 --pretty=%B)
+            echo "🔖 Tag: $COMMIT_HASH"
+            echo "📝 Message: $COMMIT_MESSAGE"
+            UPLOAD_OUTPUT=$(npx wrangler versions upload --tag "$COMMIT_HASH" --message "$COMMIT_MESSAGE")
+            VERSION_ID=$(echo "$UPLOAD_OUTPUT" | grep -oE 'Worker Version ID: [0-9a-fA-F-]+' | awk '{print $4}')
+            if [ -z "$VERSION_ID" ]; then
+              echo "❌ Konnte keine Worker Version ID extrahieren. Abbruch."
+              exit 1
+            fi
+            echo "📦 Version ID: $VERSION_ID"
+            npx wrangler versions deploy "$VERSION_ID"
+
           else
             echo "🟡 Deploying to preview environment for branch '${{ github.ref_name }}'"
             COMMIT_HASH=$(git rev-parse --short=7 HEAD)
