@@ -6,6 +6,7 @@ vendor
 .jekyll-cache
 .jekyll-metadata
 _site/*
+_site
 
 # RubyGems
 *.gem
