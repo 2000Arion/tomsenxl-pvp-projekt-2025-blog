@@ -12,12 +12,16 @@
 # - ensure failures in any part of a pipeline cause the pipeline to fail (pipefail)
 set -euo pipefail
 
-# Define color codes for console output
-RED="$(tput setaf 1)"
-GREEN="$(tput setaf 2)"
-YELLOW="$(tput setaf 3)"
-CYAN="$(tput setaf 6)"
-RESET="$(tput sgr0)"
+# Safe fallback for CI environments without a terminal
+if command -v tput >/dev/null && [ -n "${TERM-}" ] && tput colors >/dev/null 2>&1; then
+  RED="$(tput setaf 1)"
+  GREEN="$(tput setaf 2)"
+  YELLOW="$(tput setaf 3)"
+  CYAN="$(tput setaf 6)"
+  RESET="$(tput sgr0)"
+else
+  RED=""; GREEN=""; YELLOW=""; CYAN=""; RESET=""
+fi
 
 # Logging functions
 log_info()    { echo "${CYAN}[INFO]${RESET}    $*"; }
