@@ -57,6 +57,14 @@ jobs:
         with:
           ruby-version: "3.3.9"
 
+      - name: Cache Ruby dependencies
+        uses: actions/cache@v3
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+
       - name: Install dependencies & build
         run: |
           chmod +x build.sh
