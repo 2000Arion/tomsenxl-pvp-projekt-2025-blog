@@ -1,20 +1,32 @@
-# .github/workflows/build-and-deploy.yml
 name: Build & Deploy
-on: [push]
+
+on:
+  push:
+    branches:
+      - "**"
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.3"
+
       - name: Install dependencies & build
         run: |
           chmod +x build.sh
           ./build.sh
-      - uses: cloudflare/wrangler-action@v3
+
+      - name: Deploy with Wrangler
+        uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CF_API_TOKEN }}
-          command: deploy
-          workingDirectory: .
+          command: |
+            if [[ "${{ github.ref_name }}" == "main" ]]; then
+              wrangler deploy
+            else
+              wrangler versions upload
+            fi
