@@ -71,7 +71,7 @@ install_dependencies() {
 # Function: Run Jekyll validation checks
 run_checks() {
   log_info "Running 'jekyll doctor' for validation"
-  if bundle exec jekyll doctor --verbose; then
+  if bundle exec jekyll doctor; then
     log_success "'jekyll doctor' completed without errors"
   else
     log_warning "'jekyll doctor' reported issues – review output"
