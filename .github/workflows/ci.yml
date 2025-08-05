@@ -65,7 +65,6 @@ jobs:
 
       - name: Install dependencies & build
         run: |
-          bundle config set --local path 'vendor/bundle'
           chmod +x build.sh
           ./build.sh
           ls -la vendor || echo "vendor does not exist"

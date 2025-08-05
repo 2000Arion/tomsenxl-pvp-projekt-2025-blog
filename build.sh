@@ -60,7 +60,7 @@ install_bundler() {
 install_dependencies() {
   if [ -f Gemfile ]; then
     log_info "Installing gems from Gemfile"
-    bundle config set --local path '.bundle'
+    bundle config set --local path 'vendor/bundle'
     bundle install --jobs=4 --retry=3
     log_success "Gems installed"
   else
