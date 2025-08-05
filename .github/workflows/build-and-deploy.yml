@@ -20,13 +20,14 @@ jobs:
           chmod +x build.sh
           ./build.sh
 
-      - name: Deploy with Wrangler
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ secrets.CF_API_TOKEN }}
-          command: |
-            if [[ "${{ github.ref_name }}" == "main" ]]; then
-              wrangler deploy
-            else
-              wrangler versions upload
-            fi
+      - name: Deploy to Cloudflare
+        run: |
+          if [[ "${{ github.ref_name }}" == "main" ]]; then
+            echo "🔵 Deploying to production"
+            npx wrangler deploy
+          else
+            echo "🟡 Deploying to preview environment for branch '${{ github.ref_name }}'"
+            npx wrangler versions upload
+          fi
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
