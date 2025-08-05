@@ -79,5 +79,5 @@ jobs:
             npx wrangler deploy
           else
             echo "🟡 Deploying to preview environment for branch '${{ github.ref_name }}'"
-            npx wrangler deploy --env preview
+            npx wrangler versions upload
           fi
