@@ -97,3 +97,4 @@ main() {
 
 # Execute main with any provided arguments
 main "$@"
+# End of build.sh
