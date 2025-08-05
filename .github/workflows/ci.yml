@@ -65,8 +65,10 @@ jobs:
 
       - name: Install dependencies & build
         run: |
+          bundle config set --local path 'vendor/bundle'
           chmod +x build.sh
           ./build.sh
+          npm install wrangler
 
       - name: Deploy to Cloudflare
         env:
