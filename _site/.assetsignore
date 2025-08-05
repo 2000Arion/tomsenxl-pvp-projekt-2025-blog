@@ -1,0 +1,4 @@
+./wrangler.toml
+**/.git
+**/LICENSE
+**/README.md
