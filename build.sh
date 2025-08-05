@@ -85,6 +85,7 @@ run_build() {
 
   log_info "Starting Jekyll build"
   bundle exec jekyll build --verbose
+  cp ./assets/_headers ./_site/_headers
   rm -f _site/wrangler.toml
   log_success "Jekyll build completed – output in _site/"
 }
