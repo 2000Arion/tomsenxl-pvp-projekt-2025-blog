@@ -63,7 +63,7 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gems-
 
-      - name: Install dependencies
+      - name: Verify cache & install build dependencies
         run: |
           chmod +x build.sh
           ls -la vendor || echo "vendor does not exist"
