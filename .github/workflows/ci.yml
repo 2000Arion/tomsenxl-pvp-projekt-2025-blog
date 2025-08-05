@@ -79,7 +79,7 @@ jobs:
             npx wrangler deploy
           else
             echo "🟡 Deploying to preview environment for branch '${{ github.ref_name }}'"
-            COMMIT_HASH=$(git rev-parse HEAD)
+            COMMIT_HASH=$(git rev-parse --short=7 HEAD)
             COMMIT_MESSAGE=$(git log -1 --pretty=%B)
             echo "🔖 Tag: $COMMIT_HASH"
             echo "📝 Message: $COMMIT_MESSAGE"
