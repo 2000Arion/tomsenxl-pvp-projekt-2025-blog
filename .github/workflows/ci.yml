@@ -82,5 +82,5 @@ jobs:
             COMMIT_MESSAGE=$(git log -1 --pretty=%B)
             echo "🔖 Tag: $COMMIT_HASH"
             echo "📝 Message: $COMMIT_MESSAGE"
-            npx wrangler versions upload --tag "$COMMIT_HASH" --message "$COMMIT_MESSAGE"
+            npx wrangler versions upload --tag "$COMMIT_HASH" --message "[Preview]: $COMMIT_MESSAGE"
           fi
