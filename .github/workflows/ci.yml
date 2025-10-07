@@ -83,8 +83,10 @@ jobs:
             COMMIT_MESSAGE=$(git log -1 --pretty=%B)
             echo "🔖 Tag: $COMMIT_HASH"
             echo "📝 Message: $COMMIT_MESSAGE"
+
+            echo "🔐 CLOUDFLARE_API_TOKEN exists: ${CLOUDFLARE_API_TOKEN:+✅ yes}"
+
             npx wrangler versions upload \
-              --api-token "$CLOUDFLARE_API_TOKEN" \
               --tag "$COMMIT_HASH" \
               --message "[Preview]: $COMMIT_MESSAGE"
           fi
