@@ -14,6 +14,13 @@ pin: true
 ---
 Hier erfährst du, wann die nächsten YouTube-Videos online gehen – bleib gespannt!
 
+## Termine für die Runden des fünften Spieltags
+
+- **[09.11.2025 um 16 Uhr](https://www.youtube.com/watch?v=_UIKmmKsf_E "Wer zieht ins Halbfinale und wer ins Finale ein? | Minecraft PVP League 5. Spieltag")** (Alle Spiele des fünften Spieltags):
+  - <u>SteenbockMax</u> gegen <u>Aaron123337</u>
+  - <u>Sukram2.0</u> gegen <u>TomsenXL</u>
+  - <u>LeFish</u> gegen <u>Arion2000</u>
+
 ## Termine für die Runden des vierten Spieltags
 
 - **[06.04.2025 um 16 Uhr](https://www.youtube.com/watch?v=0NWqAzyxetM "Matchday 4 Game 3 • Arion2000 VS Aaron123337")**: <u>Arion2000</u> gegen <u>Aaron123337</u>
